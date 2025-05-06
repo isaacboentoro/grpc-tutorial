@@ -34,7 +34,7 @@ message TransactionResponse {
     string transaction_id = 1;
     string status = 2;
     double amount = 3;
-    string timestampe = 4;
+    string timestamp = 4;
 }
 
 message ChatMessage {
